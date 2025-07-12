@@ -1,6 +1,6 @@
 # 🍦 Natural Ice Cream Website – Clone
 
-A clean and static website clone of the **Natural Ice Cream homepage**, built using **HTML** and **CSS**.  
+A clean and static website clone of the **Natural Ice Cream *, built using **HTML** and **CSS**.  
 This project is part of my **Full Stack Internship at ScaleFull Technologies**, focused on improving layout, structure, and multi-page site design.
 
 ---
