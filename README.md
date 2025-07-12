@@ -78,10 +78,3 @@ This clone was built **for learning purposes** as part of my front-end developme
 
 ---
 
-## 📷 Screenshots (optional)
-
-> You can add screenshots like this once you have the design completed:
-
-```markdown
-![Homepage Preview](./screenshots/home.png)
-![Product Page](./screenshots/products.png)
