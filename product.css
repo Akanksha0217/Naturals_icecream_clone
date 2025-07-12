@@ -1,0 +1,49 @@
+.Shop{
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+}
+.Shop h1{
+  font-size: 40px;
+  padding-bottom: 10px;
+}
+
+
+.products{
+    min-height: 1000px;
+    max-height: auto;
+    /* background-color: aqua; */
+    display: flex;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.category{
+    width: 20%;
+    /* background-color: red; */
+    padding-left: 20px;
+}
+.category ul{
+   list-style: none;
+   font-size: 18px;
+   
+}
+.category li{
+    padding-top: 20px;
+}
+.Ice-Cream{
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    grid-template-rows: auto auto auto;
+    gap: 50px;
+}
+.product_img{
+    width: 100%;
+}
+.Headcream{
+    display: flex;
+    justify-content: space-between;
+    font-size: 19px;
+    padding-bottom: 20px;
+}
+.show span{
+    padding-left: 15px;
+}
