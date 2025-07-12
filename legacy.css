@@ -15,7 +15,7 @@
 .sectio_box1{
     width: 50%;
     /* background-color: blue; */
-    text-align: end;
+    text-align: end; 
     padding: 50px;
     border-right: 5px solid #009944;
 }
