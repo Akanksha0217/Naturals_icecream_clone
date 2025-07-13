@@ -7,12 +7,14 @@ This project is part of my **Full Stack Internship at ScaleFull Technologies**, 
 
 ## 📅 Timeline
 
-| Date       | Task                                                                 |
-|------------|----------------------------------------------------------------------|
+| Date          | Task                                                               |
+|---------------|--------------------------------------------------------------------|
 | July 10, 2025 | 🛠️ Started the project – built Header, Navbar, Hero Banner        |
 | July 10, 2025 | 📄 Created 3 internal pages: Blog, Ingredient Story, Products     |
 | July 11,2025  | 💻 Created 2 more pages location ,Franchise Queries               |
 | July 12,2025 |  Created 2 more pages Our legacy,Malai Magic                        |
+| July 13,2025 |  Worked on making the website responsive using media queries        |
+
 
 ---
 
