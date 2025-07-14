@@ -13,8 +13,8 @@ This project is part of my **Full Stack Internship at ScaleFull Technologies**, 
 | July 10, 2025 | 📄 Created 3 internal pages: Blog, Ingredient Story, Products     |
 | July 11,2025  | 💻 Created 2 more pages location ,Franchise Queries               |
 | July 12,2025 |  Created 2 more pages Our legacy,Malai Magic                        |
-| July 13,2025 |  Worked on making the website responsive using media queries        |
-
+| July 13,2025 |  Worked on making the website responsive using media queries,      |
+| July 14,2025 | Made three pages responsive by adjusting layouts, fonts, and elements to fit various screen sizes.  |
 
 ---
 
