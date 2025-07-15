@@ -15,18 +15,20 @@ This project is part of my **Full Stack Internship at ScaleFull Technologies**, 
 | July 12,2025 |  Created 2 more pages Our legacy,Malai Magic                        |
 | July 13,2025 |  Worked on making the website responsive using media queries,      |
 | July 14,2025 | Made three pages responsive by adjusting layouts, fonts, and elements to fit various screen sizes.  |
-
+| July 14,2025 | deployed the project on Netlify                                    |
 ---
 
 ## 📁 Pages Created
 
-- `index.html` – Home Page  
-- `blog.html` – Blog Articles Page  
-- `ingredient_story.html` – About Ingredients  
-- `products.html` – Product Showcase
-- `Franchise Queries`
-- `Malai Magic`
-- `Our legacy`
+- `index.html` → 🏠 Home Page  
+- `blog.html` → 📝 Blog Page  
+- `ingredient_story.html` → 🍃 Ingredient Story  
+- `products.html` → 🍨 Product Showcase  
+- `Festival Special.html` → 🎉 Festival Special Page  
+- `Friday Funday.html` → 🎈 Friday Funday Specials  
+- `Our legacy.html` → 🕰️ Our Legacy / Brand Story  
+- `Franchise Queries.html` → 📋 Franchise Inquiry Page  
+- `Store Locator.html` → 📍 Find a Store Near You
 
 ---
 
@@ -43,7 +45,7 @@ This project is part of my **Full Stack Internship at ScaleFull Technologies**, 
 
 ## 🚀 Live Demo
 
-🔗 Coming soon (will be deployed on Netlify)
+🔗 https://naturalicecreamclone.netlify.app/
 
 ---
 
